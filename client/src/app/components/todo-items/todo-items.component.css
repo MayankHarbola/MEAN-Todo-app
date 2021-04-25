@@ -1,0 +1,9 @@
+.iscomplete {
+  text-decoration: line-through;
+  /* background-color: lightgreen; */
+}
+.todo
+{
+background-color: lightgray;
+border: 1px black solid ;
+}
