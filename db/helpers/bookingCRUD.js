@@ -9,6 +9,7 @@ const bookingOperation =
         //         res.json({"status":"bagh"});
         bookingObject.id = uuid.v4();
         // console.log("this is final",bookingObject);
+        console.log("Mayank mera beta");
         bookingModel.create(bookingObject,(err)=>{
             if(err)
             {
